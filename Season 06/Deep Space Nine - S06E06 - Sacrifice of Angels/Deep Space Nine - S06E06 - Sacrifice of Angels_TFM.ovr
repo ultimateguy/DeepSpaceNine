@@ -1,1 +1,70 @@
 ; Template OVR file for TFM
+
+;Intro
+7948,8209 -
+8223,8302 ppccc
+8612,8681 ppccc
+9345,9384 ppccc
+9566 -
+9568,9569 -
+9664,9693 ppccc
+9919,9920 -
+9927 +
+9962 +
+9968 +
+9972,9973 +
+9978,9979 +
+9987,9988 +
+9995 -
+9997,9998 +
+10002,10003 +
+10006,10008 +
+
+;andrew robinson
+10689,10768 -
+;max grodenchik
+11173,11250 -
+;aron eisenberg
+11293,11370 -
+;j.g. hertzler
+11422,11495 -
+;station false positive
+11497 -
+
+;digital table display
+11508,11617 -
+
+;melanie smith
+11631,11708 -
+;salome jens
+12214,12289 -
+;ron moore
+13500,13577 -
+;ira behr
+13658,13733 -
+;allan kroeker
+13800,13876 -
+
+;station view
+24701,24819 -
+
+; jem hadar ship
+37436 -
+
+;defiant
+51193,51310 -
+52978,53066 -
+
+;minefield
+54050,54148 -
+
+;wormhole
+56479 +
+56530 -
+56562,56591 +
+
+;exec producers
+79718,79795 -
+
+;credits
+79907,81265 p
